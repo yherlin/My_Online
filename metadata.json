@@ -1,0 +1,6 @@
+{
+  "name": "Cloud Products",
+  "description": "Plataforma Cloud moderna para administración de productos, inventario, imágenes y usuarios con control de roles y permisos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
